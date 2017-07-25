@@ -1,0 +1,8 @@
+1.0.1
+-Added Treasures to item total bringing it to 68
+-Added a simple percentage counter
+-Fixed bug where vessel counted twice after final boss
+-Fixed bug where Hard Mode Guardian Kills jumped up by 256 after credits
+
+1.0.0
+-Initial Release
