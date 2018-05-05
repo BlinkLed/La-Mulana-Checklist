@@ -13,7 +13,6 @@
         <CheatEntry>
           <ID>13</ID>
           <Description>"Inventory Pointer"</Description>
-          <LastState Value="0BED0C98" RealAddress="004C1820"/>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>4 Bytes</VariableType>
           <Address>LamulanaWin.exe+2E1820</Address>
@@ -21,7 +20,6 @@
             <CheatEntry>
               <ID>77</ID>
               <Description>"Chain Whip | other"</Description>
-              <LastState Value="00010000" RealAddress="0BED0C98"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -32,7 +30,6 @@
             <CheatEntry>
               <ID>57</ID>
               <Description>"Knife | Flail Whip"</Description>
-              <LastState Value="00010001" RealAddress="0BED0C9C"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -43,7 +40,6 @@
             <CheatEntry>
               <ID>59</ID>
               <Description>"Axe | Key Sword"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CA0"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -54,7 +50,6 @@
             <CheatEntry>
               <ID>81</ID>
               <Description>"other | Katana"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CA4"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -65,7 +60,6 @@
             <CheatEntry>
               <ID>53</ID>
               <Description>"Rolling Shurikens Unlocked | Shurikens Unlocked"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CA8"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -76,7 +70,6 @@
             <CheatEntry>
               <ID>65</ID>
               <Description>"Flares Unlocked | Earth Spears Unlocked"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CAC"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -87,7 +80,6 @@
             <CheatEntry>
               <ID>66</ID>
               <Description>"Chakrams Unlocked | Bombs Unlocked"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CB0"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -98,7 +90,6 @@
             <CheatEntry>
               <ID>60</ID>
               <Description>"Pistol | Caltrops Unlocked"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CB4"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -109,7 +100,6 @@
             <CheatEntry>
               <ID>70</ID>
               <Description>"Silver Shield | Buckler"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CB8"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -120,7 +110,6 @@
             <CheatEntry>
               <ID>88</ID>
               <Description>"other | Angel Shield"</Description>
-              <LastState Value="00000001" RealAddress="0BED0CBC"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -131,7 +120,6 @@
             <CheatEntry>
               <ID>51</ID>
               <Description>"Djed Pillar | Hand Scanner"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CC0"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -142,7 +130,6 @@
             <CheatEntry>
               <ID>76</ID>
               <Description>"Magatama Jewel | Mini Doll"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CC4"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -153,7 +140,6 @@
             <CheatEntry>
               <ID>84</ID>
               <Description>"Lamp of Time (Full) | Cog of the Soul"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CC8"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -164,7 +150,6 @@
             <CheatEntry>
               <ID>64</ID>
               <Description>"Dragon Bone = 9D? | Pochette Key"</Description>
-              <LastState Value="009D0001" RealAddress="0BED0CCC"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -175,7 +160,6 @@
             <CheatEntry>
               <ID>87</ID>
               <Description>"Vessel | Crystal Skull"</Description>
-              <LastState Value="00020001" RealAddress="0BED0CD0"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -186,7 +170,6 @@
             <CheatEntry>
               <ID>72</ID>
               <Description>"Woman Statue | Pepper"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CD4"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -197,7 +180,6 @@
             <CheatEntry>
               <ID>68</ID>
               <Description>"Serpent Staff | Key of Eternity"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CD8"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -208,7 +190,6 @@
             <CheatEntry>
               <ID>79</ID>
               <Description>"other | Talisman"</Description>
-              <LastState Value="00000001" RealAddress="0BED0CDC"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -219,7 +200,6 @@
             <CheatEntry>
               <ID>54</ID>
               <Description>"Heatproof Case | Waterproof Case"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CE0"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -230,7 +210,6 @@
             <CheatEntry>
               <ID>35</ID>
               <Description>"Glove | Shell Horn"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CE4"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -241,7 +220,6 @@
             <CheatEntry>
               <ID>52</ID>
               <Description>"Isis Pendant | Holy Grail"</Description>
-              <LastState Value="00010000" RealAddress="0BED0CE8"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -252,7 +230,6 @@
             <CheatEntry>
               <ID>56</ID>
               <Description>"Helmet | Crucifix"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CEC"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -263,7 +240,6 @@
             <CheatEntry>
               <ID>58</ID>
               <Description>"Bronze Mirror | Grapple Claw"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CF0"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -274,7 +250,6 @@
             <CheatEntry>
               <ID>78</ID>
               <Description>"Ring | Eye of Truth"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CF4"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -285,7 +260,6 @@
             <CheatEntry>
               <ID>62</ID>
               <Description>"Gauntlet | Scalesphere"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CF8"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -296,7 +270,6 @@
             <CheatEntry>
               <ID>75</ID>
               <Description>"Plane Model | Anchor"</Description>
-              <LastState Value="00010001" RealAddress="0BED0CFC"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -307,7 +280,6 @@
             <CheatEntry>
               <ID>69</ID>
               <Description>"Feather | Philosopher's Ocarina"</Description>
-              <LastState Value="00010001" RealAddress="0BED0D00"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -318,7 +290,6 @@
             <CheatEntry>
               <ID>67</ID>
               <Description>"Fairy Clothes | Book of the Dead"</Description>
-              <LastState Value="00010001" RealAddress="0BED0D04"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -329,7 +300,6 @@
             <CheatEntry>
               <ID>55</ID>
               <Description>"Hermes Boots | Scriptures"</Description>
-              <LastState Value="00010001" RealAddress="0BED0D08"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -340,7 +310,6 @@
             <CheatEntry>
               <ID>71</ID>
               <Description>"Twin Statue | Fruit of Eden"</Description>
-              <LastState Value="00010001" RealAddress="0BED0D0C"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -351,7 +320,6 @@
             <CheatEntry>
               <ID>80</ID>
               <Description>"Perfume | Bracelet"</Description>
-              <LastState Value="00010001" RealAddress="0BED0D10"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -362,7 +330,6 @@
             <CheatEntry>
               <ID>12</ID>
               <Description>"Dimensional Key | Spaulder"</Description>
-              <LastState Value="00010001" RealAddress="0BED0D14"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -373,7 +340,6 @@
             <CheatEntry>
               <ID>61</ID>
               <Description>"Origin Seal | Ice Cape"</Description>
-              <LastState Value="00010001" RealAddress="0BED0D18"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -384,7 +350,6 @@
             <CheatEntry>
               <ID>63</ID>
               <Description>"Life Seal | Birth Seal"</Description>
-              <LastState Value="00010001" RealAddress="0BED0D1C"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -395,7 +360,6 @@
             <CheatEntry>
               <ID>86</ID>
               <Description>"other | Death Seal"</Description>
-              <LastState Value="00000001" RealAddress="0BED0D20"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -406,7 +370,6 @@
             <CheatEntry>
               <ID>74</ID>
               <Description>"Treasures | Other"</Description>
-              <LastState Value="00000011" RealAddress="0BED0D24"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -417,7 +380,6 @@
             <CheatEntry>
               <ID>85</ID>
               <Description>"Mulana Talisman | Diary"</Description>
-              <LastState Value="00010001" RealAddress="0BED0D28"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -428,7 +390,6 @@
             <CheatEntry>
               <ID>82</ID>
               <Description>"Yellow Medicine | MSX2"</Description>
-              <LastState Value="00000001" RealAddress="0BED0D30"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -439,7 +400,6 @@
             <CheatEntry>
               <ID>83</ID>
               <Description>"Maternity Statue | Lamp of Time (empty)"</Description>
-              <LastState Value="00010000" RealAddress="0BED0D38"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -450,7 +410,6 @@
             <CheatEntry>
               <ID>89</ID>
               <Description>"Holy Grail (Powered) | Holy Grail (Broken)"</Description>
-              <LastState Value="00000001" RealAddress="0BED0D3C"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -461,7 +420,6 @@
             <CheatEntry>
               <ID>90</ID>
               <Description>"other | Sacred Treasure of Life"</Description>
-              <LastState Value="00010001" RealAddress="0BED0D40"/>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>4 Bytes</VariableType>
               <Address>LamulanaWin.exe+2E1820</Address>
@@ -482,7 +440,6 @@
         <CheatEntry>
           <ID>48</ID>
           <Description>"Baphomet | Palenque | Viy | Bahamut | Ellmac | Sakit | Amphisbaena | other"</Description>
-          <LastState Value="0101010101010101" RealAddress="004C2210"/>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>8 Bytes</VariableType>
           <Address>LamulanaWin.exe+2E2210</Address>
@@ -490,7 +447,6 @@
         <CheatEntry>
           <ID>49</ID>
           <Description>"other | other | other | Tiamat"</Description>
-          <LastState Value="01010101" RealAddress="004C2218"/>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>4 Bytes</VariableType>
           <Address>LamulanaWin.exe+2E2218</Address>
@@ -500,7 +456,6 @@
     <CheatEntry>
       <ID>38</ID>
       <Description>"Number of Emails"</Description>
-      <LastState Value="0000002D" RealAddress="004C0F3C"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E0F3C</Address>
@@ -508,7 +463,6 @@
     <CheatEntry>
       <ID>2</ID>
       <Description>"Game Time in Milliseconds"</Description>
-      <LastState Value="01596C30" RealAddress="004C1214"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E1214</Address>
@@ -516,7 +470,6 @@
     <CheatEntry>
       <ID>1</ID>
       <Description>"Number of Sacred Orbs + 1 For Initial Health"</Description>
-      <LastState Value="0000000B" RealAddress="004C12B0"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E12B0</Address>
@@ -524,7 +477,6 @@
     <CheatEntry>
       <ID>9</ID>
       <Description>"Coin Chests | other | other | other"</Description>
-      <LastState Value="1C000101" RealAddress="004C1EBC"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E1EBC</Address>
@@ -532,7 +484,6 @@
     <CheatEntry>
       <ID>91</ID>
       <Description>"other | other | other | Showed Isis' Pendant"</Description>
-      <LastState Value="020AEF01" RealAddress="004C1F60"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E1F60</Address>
@@ -540,7 +491,6 @@
     <CheatEntry>
       <ID>3</ID>
       <Description>"other | other | total softwares found | other"</Description>
-      <LastState Value="08011409" RealAddress="004C2130"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E2130</Address>
@@ -548,7 +498,6 @@
     <CheatEntry>
       <ID>0</ID>
       <Description>"Gyonin Character Ending Flag | Key Fairy Points | other | Fairy Points"</Description>
-      <LastState Value="01040109" RealAddress="004C21CC"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E21CC</Address>
@@ -556,7 +505,6 @@
     <CheatEntry>
       <ID>42</ID>
       <Description>"other | Talked to Samieru | Talked to duplex | Talked to Naramura"</Description>
-      <LastState Value="02010101" RealAddress="004C21D0"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E21D0</Address>
@@ -564,7 +512,6 @@
     <CheatEntry>
       <ID>43</ID>
       <Description>"other | other | Hard Mode Flag | other"</Description>
-      <LastState Value="00010100" RealAddress="004C21E4"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E21E4</Address>
@@ -572,7 +519,6 @@
     <CheatEntry>
       <ID>5</ID>
       <Description>"other | other | other | lamulana exe collected flag"</Description>
-      <LastState Value="2D010101" RealAddress="004C2A18"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E2A18</Address>
@@ -580,7 +526,6 @@
     <CheatEntry>
       <ID>44</ID>
       <Description>"other (after credits) | Hard Mode Guardian Kills | other | other"</Description>
-      <LastState Value="01090101" RealAddress="004C2A28"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E2A28</Address>
@@ -588,7 +533,6 @@
     <CheatEntry>
       <ID>50</ID>
       <Description>"other | other | hell temple completed | other"</Description>
-      <LastState Value="01090101" RealAddress="004C2A28"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E2A28</Address>
@@ -596,7 +540,6 @@
     <CheatEntry>
       <ID>40</ID>
       <Description>"Number of Maps collected"</Description>
-      <LastState Value="00000011" RealAddress="0BED0D24"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E1820</Address>
@@ -607,7 +550,6 @@
     <CheatEntry>
       <ID>36</ID>
       <Description>"other | Enga Musica Flag"</Description>
-      <LastState Value="00010001" RealAddress="0BED0D54"/>
       <ShowAsHex>1</ShowAsHex>
       <VariableType>4 Bytes</VariableType>
       <Address>LamulanaWin.exe+2E1820</Address>
@@ -798,6 +740,11 @@ function updateTimer(timer)
             if readInteger(InvPointer+0xbc) ~= nil then
                Music = readInteger(InvPointer+0xbc)%65536
 
+               --Fix Problem where Music increments past 1
+               if Music &gt; 1 then
+                  Music = 1
+               end
+
                UDF2.MusicExeLabel.Caption = "emusic.exe: \t\t("..Music.."/1)"
 
                --Checm emusic.exe conditions
@@ -830,9 +777,14 @@ function updateTimer(timer)
                ItemTotal = ItemTotal + (readInteger(InvPointer + 0x18)//65536)--10.Chakrams
                ItemTotal = ItemTotal + (readInteger(InvPointer + 0x1c)%65536) --11.Caltrops
                ItemTotal = ItemTotal + (readInteger(InvPointer + 0x1c)//65536)--12.Pistol
-               ItemTotal = ItemTotal + (readInteger(InvPointer + 0x20)%65536) --13.Buckler
-               ItemTotal = ItemTotal + (readInteger(InvPointer + 0x20)//65536)--14.Silver Shield
-               ItemTotal = ItemTotal + (readInteger(InvPointer + 0x24)%65536) --15.Angel Shield
+               --Check Which Shield is owned and add accordingly
+               if (readInteger(InvPointer + 0x24)%65536) == 1 then            --13.Angel Shield
+                  ItemTotal = ItemTotal + 3
+               elseif (readInteger(InvPointer + 0x20)//65536) == 1 then       --14.Silver Shield
+                      ItemTotal = ItemTotal + 2
+               elseif (readInteger(InvPointer + 0x20)%65536) == 1 then        --15.Buckler
+                      ItemTotal = ItemTotal + 1
+               end
 
                --Usable Items
                ItemTotal = ItemTotal + (readInteger(InvPointer + 0x28)%65536) --16.Hand Scanner

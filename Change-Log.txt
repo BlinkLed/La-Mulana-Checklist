@@ -1,3 +1,7 @@
+1.0.2
+-Fixed bug where "EMusic" incremented past 1
+-Fixed bug where not collecting Silver Shield meant it was not counted when Angel Shield was collected
+
 1.0.1
 -Added Treasures to item total bringing it to 68
 -Added a simple percentage counter
